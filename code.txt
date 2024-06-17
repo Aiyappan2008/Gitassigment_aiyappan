@@ -1,0 +1,2 @@
+dbacess $DBNAME --<<SQLSTMT
+this is the testing code 
